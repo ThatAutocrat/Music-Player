@@ -1,2 +1,4 @@
-"# Music-Player" 
-"# Music-Player" 
+## Synthesizer
+
+
+Introducing Synthesizer, a simple yet elegant music player built using HTML and CSS! This open-source project allows users to play and manage their music library with ease. With a clean and responsive design,it is perfect for music enthusiasts and developers alike to create their first basic project. The player features a user-friendly interface, allowing users to play their music files with minimal effort. The code is well-organized and easy to navigate, making it an excellent learning resource for those new to web development. Additionally, synthesizer is highly customizable, allowing users to tailor the design and functionality to fit their specific needs. Explore the code and customize it to fit your unique style, and start enjoying your favorite tunes with this project.
